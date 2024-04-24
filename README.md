@@ -1,4 +1,4 @@
-# Awesome OSS Research
+# Awesome OSS Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repo is meant to collect and organize research on OSS.
 
@@ -54,4 +54,6 @@ Macro-topics:
 - Stewart, D. (2005). Social status in an open-source community. American sociological review, 70(5), 823-842. [[link](https://journals.sagepub.com/doi/pdf/10.1177/000312240507000505)]
 
 ## Note
-Please also check [sboysel/awesome-oss-research-data](https://github.com/sboysel/awesome-oss-research-data) for a curated list of OSS datasets.
+Please also check: 
+- [sboysel/awesome-oss-research-data](https://github.com/sboysel/awesome-oss-research-data) for a curated list of OSS datasets;
+- [dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr) for a curated list of software engineering repository mining data sets.
