@@ -24,7 +24,7 @@ Macro-topics:
 - Daniel, S. L., Maruping, L. M., Cataldo, M., & Herbsleb, J. (2018). The impact of ideology misfit on open source software communities and companies. MIS quarterly, 42(4), 1069-A10. [[link](https://www.jstor.org/stable/pdf/26635072.pdf)]
 
 ### Innovation
-- Hippel, E. V., & Krogh, G. V. (2003). Open source software and the “private-collective” innovation model: Issues for organization science. Organization science, 14(2), 209-223. [[link](https://pubsonline.informs.org/doi/abs/10.1287/orsc.14.2.209.14992)]
+- Von Hippel, E., & Von Krogh, G. (2003). Open source software and the “private-collective” innovation model: Issues for organization science. Organization science, 14(2), 209-223. [[link](https://pubsonline.informs.org/doi/abs/10.1287/orsc.14.2.209.14992)]
 - Von Krogh, G., Spaeth, S., & Lakhani, K. R. (2003). Community, joining, and specialization in open source software innovation: a case study. Research policy, 32(7), 1217-1241. [[link](https://www.sciencedirect.com/science/article/pii/S0048733303000507#FIG1)]
 - Haefliger, S., Von Krogh, G., & Spaeth, S. (2008). Code reuse in open source software. Management science, 54(1), 180-193. [[link](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.1070.0748?casa_token=Z9u3dxMeIFcAAAAA:g-jOKlDm1dyd52IWaGEQB084QozVGpqkvmEVMzcQjnhAmsCWQbkta8jeIRM6P9thrVvjI1x6eA)]
 - Daniel, S., Midha, V., Bhattacherhjee, A., & Singh, S. P. (2018). Sourcing knowledge in open source software projects: The impacts of internal and external social capital on project success. The Journal of Strategic Information Systems, 27(3), 237-256. [[link](https://www.sciencedirect.com/science/article/pii/S0963868716301251)]
