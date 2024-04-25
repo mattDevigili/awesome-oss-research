@@ -20,7 +20,7 @@ Macro-topics:
 ### Companies
 - Dahlander, L., & Magnusson, M. G. (2005). Relationships between open source software companies and communities: Observations from Nordic firms. Research policy, 34(4), 481-493. [[link](https://www.sciencedirect.com/science/article/pii/S0048733305000405)]
 - Dahlander, L., & Wallin, M. W. (2006). A man on the inside: Unlocking communities as complementary assets. Research policy, 35(8), 1243-1259. [[link](https://www.sciencedirect.com/science/article/pii/S0048733306001387)]
-- O'Mahony, S., & Bechky, B. A. (2008). Boundary organizations: Enabling collaboration among unexpected allies. Administrative science quarterly, 53(3), 422-459. [[link](https://www.sciencedirect.com/science/article/pii/S0048733303000489)]
+- O'Mahony, S., & Bechky, B. A. (2008). Boundary organizations: Enabling collaboration among unexpected allies. Administrative science quarterly, 53(3), 422-459. [[link](https://journals.sagepub.com/doi/10.2189/asqu.53.3.422)]
 - Daniel, S. L., Maruping, L. M., Cataldo, M., & Herbsleb, J. (2018). The impact of ideology misfit on open source software communities and companies. MIS quarterly, 42(4), 1069-A10. [[link](https://www.jstor.org/stable/pdf/26635072.pdf)]
 
 ### Innovation
@@ -32,7 +32,7 @@ Macro-topics:
 
 ### Governance
 - O'Mahony, S., & Ferraro, F. (2007). The emergence of governance in an open source community. Academy of Management Journal, 50(5), 1079-1106. [[link](https://www.jstor.org/stable/pdf/20159914.pdf)]
-- Di Tullio, D., & Staples, D. S. (2013). The governance and control of open source software projects. Journal of Management Information Systems, 30(3), 49-80. [[link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.3181)]
+- Di Tullio, D., & Staples, D. S. (2013). The governance and control of open source software projects. Journal of Management Information Systems, 30(3), 49-80. [[link](https://www.jstor.org/stable/43590142)]
 - He, V. F., Puranam, P., Shrestha, Y. R., & von Krogh, G. (2020). Resolving governance disputes in communities: A study of software license decisions. Strategic Management Journal, 41(10), 1837-1868. [[link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.3181)]
 
 ### Measurement
